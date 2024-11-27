@@ -14,6 +14,7 @@ My job at GoTo.
 
 # Projects worth mentioning:
 
+- [Distroless .Net healthchecks](https://github.com/alexaka1/distroless-dotnet-healthchecks)
 - [Serilog Utf8JsonFormatter](https://github.com/alexaka1/serilog-extensions)
 - [Next.js app for an event I attended](https://github.com/alexaka1/mhu-nextjs-sport)
 - I contributed the `SimpleLogin` provider to `Auth.js`.
