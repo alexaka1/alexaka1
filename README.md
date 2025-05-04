@@ -10,7 +10,7 @@ My main languages are `C#` and `Typescript`.
 
 # Currently focusing on
 
-My job at GoTo.
+My job at ZaWin.
 
 # Projects worth mentioning:
 
@@ -21,13 +21,12 @@ My job at GoTo.
 
 ## Looking ahead
 
-I wish to make something out of [Tailwind OKLCH](https://github.com/alexaka1/tailwindcss-oklch) before Tailwind 4 releases. If not, I'll see what actually gets added in 4 and then alter the lib accordingly.
+Working on Distroless .Net healthchecks.
 
 I plan on making more contributions to FOSS projects, especially for tools I already use.
 
 ## What I want to learn:
 
 - Dev containers
-- Test containers
 - Passkey auth in my apps
 - YARP
