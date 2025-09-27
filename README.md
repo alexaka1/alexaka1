@@ -31,4 +31,4 @@ I plan on making more contributions to FOSS projects, especially for tools I alr
 - Passkey auth in my apps
 - YARP
 
-[![alexaka1's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexaka1)](https://github.com/alexaka1)
+[![alexaka1's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexaka1&theme=neon&show_icons=true)](https://github.com/alexaka1)
