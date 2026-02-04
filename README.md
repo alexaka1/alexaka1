@@ -1,6 +1,6 @@
 ## Hello there. I'm Alex.
 ### Chronic skill issues
-I care about online privacy and security. Fuller-stack developer.
+I care about online privacy and security. Fuller-stack developer. Somehow became an architect, but I don't build houses.
 
 My main languages are `C#` and `Typescript`.
 
@@ -10,7 +10,8 @@ My main languages are `C#` and `Typescript`.
 
 # Currently focusing on
 
-My job at ZaWin.
+- My job at ZaWin
+- Passive agressively submitting issues in the dotnet repos
 
 # Projects worth mentioning:
 
@@ -29,6 +30,5 @@ I plan on making more contributions to FOSS projects, especially for tools I alr
 
 - Dev containers
 - Passkey auth in my apps
-- YARP
 
 [![alexaka1's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexaka1&theme=neon&show_icons=true)](https://github.com/alexaka1)
