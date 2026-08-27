@@ -16,6 +16,7 @@ My main languages are `C#` and `Typescript`.
 # Projects worth mentioning:
 
 - [Distroless .Net healthchecks](https://github.com/alexaka1/distroless-dotnet-healthchecks)
+- [Roslyn structured logging analyzers](https://github.com/alexaka1/structured-logging-analyzers)
 - [Serilog Utf8JsonFormatter](https://github.com/alexaka1/serilog-extensions)
 - [Next.js app for an event I attended](https://github.com/alexaka1/mhu-nextjs-sport)
 - I contributed the `SimpleLogin` provider to `Auth.js`.
@@ -25,10 +26,5 @@ My main languages are `C#` and `Typescript`.
 Working on Distroless .Net healthchecks.
 
 I plan on making more contributions to FOSS projects, especially for tools I already use.
-
-## What I want to learn:
-
-- Dev containers
-- Passkey auth in my apps
 
 [![alexaka1's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexaka1&theme=neon&show_icons=true)](https://github.com/alexaka1)
